@@ -19,10 +19,12 @@
 **Platinum Coder:** Remotasks - Remote, CA - Fall 2023 to Present
 - Building LLM datasets by solving coding prompts
 - Working with a remote team to ensure quality and a high degree accountability
+
 **Bounty Hunter:** [Sphinx](https://sphinx.chat/) - Remote, CA - Fall 2023 to Present
 - Writing frontend code in React.js following figma designs.
 - Working with 3js to develop a graph based system for storing information; a web for information about bitcoin.
 - Working closely with the development team to tackle bugs.
+
 **Intermediate Instructor:** Coding Minds Academy - Remote, CA - Summer 2023
 - Taught one on one courses for K-12 students on the topics of programming and game design.
 - Languages and tools included C++, Java, Python, and C#/Unity.
