@@ -90,7 +90,7 @@
 	- Photoshop 
 - Beginner
 	- OnShape (cad software)
-	- Postgres
+	- PostgreSQL
 
 ### API's and Frameworks
 - Advanced
