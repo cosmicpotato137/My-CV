@@ -1,6 +1,6 @@
 # Macintyre Sunde
 
-[cosmicpotato.tech](http://cosmicpotato.tech/) - [LinkedIn](https://www.linkedin.com/in/macintyre-sunde-82b13b1a6/) - [GitHub](https://github.com/msunde137) - imacsunde@gmail.com - 802-281-0985
+[LinkedIn](https://www.linkedin.com/in/macintyre-sunde-82b13b1a6/) - [GitHub](https://github.com/msunde137) - imacsunde@gmail.com - 802-281-0985
 
 ## Education
 
