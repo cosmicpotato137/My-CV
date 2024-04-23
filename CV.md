@@ -33,7 +33,7 @@
 - Assisted students with labs and homework on the topics of computer architecture; programming languages and idioms; Haverford Educational RISC Architecture (HERA).
 - Collaborated with professors Dougherty and Wonnacott to optimize the learning experience both in the classroom and during TA office hours.
 
-**Machine Learning Intern (Python):** Haverford College - [Rajesh Kumar](https://www.linkedin.com/in/raj28sep/), Summers 2020 and 2022 
+**Machine Learning Intern (Python):** Haverford College - [Rajesh Kumar](https://www.linkedin.com/in/raj28sep/), Summers 2020 and 2021
 - Goal: Develop a technique for continuous authentication for use in high security applications.
 - Implemented and compared 1D and 2D CNNs with traditional neural networks with the task of differentiating between users’ biometric mouse signatures. Results: The 2D CNN outperformed our other methods.
 
