@@ -39,6 +39,12 @@
 
 ## Additional Experience
 
+**Shader Engine** Winter 2024
+- Implemented a rendering pipeline using OpenGL (C++) for writing compute shaders in GLSL
+- Created an ImGui UI and added functionality for serializing and updating properties in real time
+- Designed an interactable Conway shader, slime simulation, and boid simulation 
+
+
 **Archaeological Reconstruction Using Shape Grammars (C# / Unity):** Spring and Fall 2022
 - Thesis advised by Professor [Aline Normoyle](https://alinen.net/) 
 - Researched shape grammars as a tool to procedurally generate structures and cities.
