@@ -70,43 +70,16 @@
 ## Other Skills 
 
 ### Programming Languages
-- Advanced
-	- C#
-	- Python
-	- C++
-- Intermediate
-	- Java
-	- HLSL/GLSL
-	- CMake
-	- premake
-- Beginner
-	- Javascript
-	- HTML/CSS
-	- SQL
+- Advanced: C#, Python, C++
+- Intermediate: HLSL/GLSL, CMake, Javascript, HTML/CSS
+- Beginner: SQL, Java, Premake
 
 ### Software
-- Advanced
-	- Unity
-	- Visual Studio
-	- Git
-	- Pycharm 
-- Intermediate
-	- Eclipse
-	- Blender
-	- Photoshop 
-- Beginner
-	- OnShape (cad software)
-	- PostgreSQL
+- Advanced: Unity, Visual Studio, Git, Pycharm
+- Intermediate: Eclipse, Blender, Photoshop
+- Beginner: OnShape (cad software), PostgreSQL
 
-### API's and Frameworks
-- Advanced
-	- TensorFlow
-	- Sklearn
-	- ImGui
-	- OpenGL
-- Intermdediate
-	- Bison/Flex
-	- React
-- Beginner
-	- Docker
-	- WebAssembly
+### APIs and Frameworks
+- Advanced: TensorFlow, Sklearn, ImGui, OpenGL
+- Intermdediate, Bison/Flex, React
+- Beginner: Docker, WebAssembly
