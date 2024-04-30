@@ -27,6 +27,7 @@
 
 **Intermediate Instructor:** Coding Minds Academy - Remote, CA - Summer 2023
 - Taught one on one courses for K-12 students on the topics of programming and game design.
+- Created lesson plans and adapted to students' needs and interests.
 - Languages and tools included C++, Java, Python, and C#/Unity.
 
 **Teaching Assistant CS251 (C / C++):** Haverford College -  [David Wonnacot](https://www.haverford.edu/users/dwonnaco) and [John Dougherty](https://www.haverford.edu/users/jdougher) - Fall 2022
